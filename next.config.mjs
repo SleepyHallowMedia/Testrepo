@@ -8,7 +8,7 @@ const nextConfig = {
     unoptimized: true,
   },
   // Uncomment and set this if deploying to a repo (not root domain)
-  // basePath: '/your-repo-name',
+  basePath: '/Testrepo',
 }
 
 export default nextConfig
